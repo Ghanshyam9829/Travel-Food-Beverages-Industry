@@ -1,5 +1,3 @@
-# Travel-Food-Beverages-Industry
-Travel, Food &amp; Beverages Industry: A Case Study on Adverse Event Reporting in the Food and Cosmetics Industry
 # Travel, Food & Beverages Industry: Adverse Event Reporting Analysis
 
 ## Case Study Overview
