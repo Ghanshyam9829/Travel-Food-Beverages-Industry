@@ -9,7 +9,7 @@ The CAERS database contains adverse event and product complaint reports related 
 Analyze the CAERS dataset to understand adverse events associated with foods, dietary supplements, and cosmetics reported to the FDA. Identify patterns and trends in event distribution, demographics, symptom types, and severities to enhance product safety surveillance, inform regulatory policies, and improve public health outcomes.
 
 ### **Data Source**
-[CAERS_ASCII_2004_2017Q2.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/f005446a-14f3-426e-b31e-03df53eb3d89/CAERS_ASCII_2004_2017Q2.csv)
+[CAERS_ASCII_2004_2017Q2.csv](https://drive.google.com/file/d/1KlKIEL4e68XekgMe-rLqlR_JxuYwYQyQ/view?usp=sharing)
 
 ### **Analysis Steps in Tableau**
 1. **Data Preparation**: Import and clean the CAERS dataset in Tableau.
