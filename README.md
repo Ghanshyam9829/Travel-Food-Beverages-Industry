@@ -38,6 +38,9 @@ Analyze the CAERS dataset to understand adverse events associated with foods, di
 ### **Dashboard Explanation**
 I have created four interactive dashboards in Tableau to visualize and analyze the data:
 
+![Screenshot (186)](https://github.com/Ghanshyam9829/Travel-Food-Beverages-Industry/assets/125486967/d2de5672-38b2-48a9-a735-b8036fa5417a)
+
+
 1. **Outcome Analysis**: This dashboard focuses on the severity and types of adverse event outcomes. It provides insights into common outcomes such as hospitalizations, ER visits, and non-serious injuries, allowing users to understand the impact of different products on public health.
 
 2. **Symptom Analysis**: This dashboard examines the frequency and types of symptoms reported in adverse events. Users can explore which symptoms are most commonly associated with different product categories and identify patterns in symptom occurrence.
@@ -45,4 +48,16 @@ I have created four interactive dashboards in Tableau to visualize and analyze t
 3. **Demographic Analysis**: This dashboard analyzes how adverse events affect different demographic groups, including age and gender. It helps identify any notable differences in the types and severities of events experienced by various demographic segments.
 
 4. **Trend Analysis**: This dashboard investigates temporal trends in adverse event reporting. Users can observe changes in reporting frequency over time, identify seasonal patterns, and analyze trends related to specific product categories.
+
+   ### **Dashboard: Outcome Analysis**
+
+![Screenshot (187)](https://github.com/Ghanshyam9829/Travel-Food-Beverages-Industry/assets/125486967/fc04361f-d5c5-41ea-be07-fa36919c417c)
+
+
+1. Majority of adverse events reported are serious, indicating significant impact.
+2. Non-serious and hospitalization cases follow in frequency.
+3. Life-threatening outcomes like death and disability are relatively low.
+4. Products related to the Vit/Min/Prot/Unconv Diet (Human/Animal) industry often cause serious, hospitalization, and life-threatening outcomes.
+5. "Redacted" is the most risky product category resulting in serious outcomes.
+6. Non-serious outcomes have the highest percentage, closely followed by serious outcomes.
 
