@@ -61,3 +61,30 @@ I have created four interactive dashboards in Tableau to visualize and analyze t
 5. "Redacted" is the most risky product category resulting in serious outcomes.
 6. Non-serious outcomes have the highest percentage, closely followed by serious outcomes.
 
+### **Dashboard: Symptom Analysis**
+![Screenshot (188)](https://github.com/Ghanshyam9829/Travel-Food-Beverages-Industry/assets/125486967/51d00f5d-580f-47d8-813f-ffa26f8ac481)
+
+1. Top 5 reported symptoms: diarrhea, vomiting, ovarian cancer, nausea, and choking.
+2. Severe symptoms are mostly linked to 'Vit/Min/Prot/Unconv Diet (Human/Animal)' products, except ovarian cancer, which is linked to cosmetics.
+3. Choking is mainly caused by nuts/edible seeds and vegetable products.
+4. Year-on-year growth shows significant increases in symptoms like abdominal pain, diarrhea, and malaise.
+
+### **Dashboard: Demographic Analysis**
+![Screenshot (189)](https://github.com/Ghanshyam9829/Travel-Food-Beverages-Industry/assets/125486967/d62dec43-0f7d-44e9-911d-a1066429c0d1)
+
+
+1. Middle-aged adults (40-60 years) are most affected, followed by young adults (20-40 years).
+2. Females experience more serious outcomes, while males experience more non-serious outcomes; outcomes for unknown gender are mostly non-serious.
+3. Females constitute 63% of cases, while males account for 30%.
+4. Clustering analysis shows distinct groups based on products, symptoms, and severity.
+
+### **Dashboard: Trend Analysis**
+![Screenshot (190)](https://github.com/Ghanshyam9829/Travel-Food-Beverages-Industry/assets/125486967/3153d25a-15ef-4fcd-9956-dc4710f16931)
+
+1. Bars show yearly total reported cases trend; line chart displays year-on-year percentage change.
+2. Highest number of cases in 2016, with a significant decline in 2017.
+3. Average time lag is highest for general physician visit cases.
+4. Severe outcome cases have a shorter average time lag.
+5. Adverse events related to Vitamin D and redacted products show a higher time lag.
+6. Forecast for 2018 is higher than 2017 but around previous averages.
+7. High correlation between non-serious outcomes and common symptoms; significant correlation between serious outcomes and specific symptoms like choking and ovarian cancer.
