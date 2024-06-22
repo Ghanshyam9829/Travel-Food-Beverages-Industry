@@ -34,14 +34,15 @@ Analyze the CAERS dataset to understand adverse events associated with foods, di
 - Demographic insights on adverse event reports.
 - Trends in adverse event reporting over time.
 
-Dashboard Explanation
+
+### **Dashboard Explanation**
 I have created four interactive dashboards in Tableau to visualize and analyze the data:
 
-Outcome Analysis: This dashboard focuses on the severity and types of adverse event outcomes. It provides insights into common outcomes such as hospitalizations, ER visits, and non-serious injuries, allowing users to understand the impact of different products on public health.
+1. **Outcome Analysis**: This dashboard focuses on the severity and types of adverse event outcomes. It provides insights into common outcomes such as hospitalizations, ER visits, and non-serious injuries, allowing users to understand the impact of different products on public health.
 
-Symptom Analysis: This dashboard examines the frequency and types of symptoms reported in adverse events. Users can explore which symptoms are most commonly associated with different product categories and identify patterns in symptom occurrence.
+2. **Symptom Analysis**: This dashboard examines the frequency and types of symptoms reported in adverse events. Users can explore which symptoms are most commonly associated with different product categories and identify patterns in symptom occurrence.
 
-Demographic Analysis: This dashboard analyzes how adverse events affect different demographic groups, including age and gender. It helps identify any notable differences in the types and severities of events experienced by various demographic segments.
+3. **Demographic Analysis**: This dashboard analyzes how adverse events affect different demographic groups, including age and gender. It helps identify any notable differences in the types and severities of events experienced by various demographic segments.
 
-Trend Analysis: This dashboard investigates temporal trends in adverse event reporting. Users can observe changes in reporting frequency over time, identify seasonal patterns, and analyze trends related to specific product categories.
+4. **Trend Analysis**: This dashboard investigates temporal trends in adverse event reporting. Users can observe changes in reporting frequency over time, identify seasonal patterns, and analyze trends related to specific product categories.
 
