@@ -15,6 +15,7 @@ Analyze the CAERS dataset to understand adverse events associated with foods, di
 [CAERS_ASCII_2004_2017Q2.csv](https://drive.google.com/file/d/1KlKIEL4e68XekgMe-rLqlR_JxuYwYQyQ/view)
 
 
+
 ### **Analysis Steps in Tableau**
 1. **Data Preparation**: Import and clean the CAERS dataset in Tableau.
 2. **Adverse Event Analysis**: Analyze the distribution of events across product categories.
